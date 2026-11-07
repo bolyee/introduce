@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/style.css
+!/assets/
+/assets/*
+!/assets/profile.jpeg
+!/assets/favicon.svg
